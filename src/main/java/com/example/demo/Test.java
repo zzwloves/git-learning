@@ -10,5 +10,6 @@ public class Test {
         System.out.println("aaa");
         System.err.println("bbbbbbb");
         System.err.println("uuuuu");
+        System.out.println();
     }
 }
