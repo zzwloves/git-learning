@@ -6,4 +6,7 @@ package com.example.demo;
  * @date 2019/9/6 13:49
  */
 public class Test {
+    public static void main(String[] args) {
+        System.out.println("aaa");
+    }
 }
